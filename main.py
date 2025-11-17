@@ -1,6 +1,3 @@
-
-# Step 5: First Python Program
-
 # Print "Hello World!"
 print("Hello World!")
 
