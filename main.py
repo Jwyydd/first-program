@@ -5,7 +5,7 @@
 print("Hello World!")
 
 # Ask the user for their name
-username = input("What is your name? ")
+johnathan = input("What is your name? ")
 
 # Print back the message
-print(username + " is cool!")
+print(johnathan + " is cool!")
